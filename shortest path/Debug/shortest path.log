@@ -1,0 +1,16 @@
+﻿Build started 25/03/2016 02:17:06 ق.ظ.
+     1>Project "E:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\shortest path.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\source.cpp(163): warning C4305: '=' : truncation from '__int64' to 'int'
+     1>e:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\source.cpp(163): warning C4309: '=' : truncation of constant value
+     1>e:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\source.cpp(318): warning C4715: 'Map::printPath' : not all control paths return a value
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\Debug\shortest path.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\Debug\shortest path.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\Debug\shortest path.lib" /MACHINE:X86 Debug\Source.obj
+         shortest path.vcxproj -> E:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\Debug\shortest path.exe
+     1>Done Building Project "E:\m\درسی\پروژه های دانشگاه\پروژه الگوریتم\shortest path\shortest path.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.30
